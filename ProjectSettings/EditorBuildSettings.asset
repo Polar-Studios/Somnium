@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Prologue.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PrologueKitchen.unity
+    guid: 5dbf799ab3e32094dba0b65d30f4aabc
+  - enabled: 1
+    path: Assets/Scenes/C1PrologueEnd.unity
+    guid: a3f00b23c387e70498b6fe1327295a4c
   m_configObjects: {}
